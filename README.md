@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aveens13
-- 👀 I’m interested in Software Development and server-programming.
+- 👀 I’m interested in Software Development, Server-programming and Machine Learning.
 - 🌱 I’m currently learning Python and Node Js.
 - 💞️ I’m looking to collaborate on open-source projects.
 - 📫 How to reach me? Email me here: bhattaraiavinav400@gmail.com
