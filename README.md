@@ -9,3 +9,5 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+## Connect with me on <a href="https://www.linkedin.com/in/sudhan-bhattarai-3b17111b8/">LinkedIn</a>
