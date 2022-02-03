@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @aveens13
-- 👀 I’m interested in Software Development, Server-programming and Machine Learning.
-- 🌱 I’m currently learning Python and Node Js.
-- 💞️ I’m looking to collaborate on open-source projects.
-- 📫 How to reach me? Email me here: bhattaraiavinav400@gmail.com
+## Hi there, I'm Sudhan Bhattarai 👋
 
-<!---
-aveens13/aveens13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=aveens13&show_icons=true&theme=dark" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aveens13&layout=compact" />
+
+<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
