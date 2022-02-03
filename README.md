@@ -9,4 +9,3 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-### I am interested in Server Programming, Backend Programming and Machine Learning.
