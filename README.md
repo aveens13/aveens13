@@ -18,7 +18,4 @@
 <img align="left" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-## Connect with me on <a href="https://www.linkedin.com/in/sudhan-bhattarai-3b17111b8/">LinkedIn</a>
